@@ -1,5 +1,5 @@
 ### Hi, I'm Julia Hikari 
-<img src = "code.gif" width = "400px" align = "right">
+<img src = "code.gif" width = "200px" align = "right">
 Sou estudante de ADS na SPTech school
 
 <div align = "left">  
