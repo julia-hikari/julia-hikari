@@ -1,5 +1,5 @@
 ### Hi, I'm Julia Hikari 
-<img src = ".github/dotcode.png" width = "270px" align = "right">
+<img src = ".241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width = "270px" align = "right">
 Sou estudante de ADS na SPTech school
 
 <div align = "left">  
