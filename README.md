@@ -1,11 +1,10 @@
 ### Hi 🔆
-<img src = "code.gif" width = "100px" align = "right">
+<img src = "code.gif" width = "120px" align = "right">
 I'm Julia Hikari :) <br>
 Currently a studant in SPTech school <br>
 From Japan , living in São Paulo <br>
 <br>
 Love learning new things and exploring new fields
-
 <div align = "left">  
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=julia-hikari&show_icons=true&show_icons=true&theme=bear&count_private=true" />
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-hikari&show_icons=true&theme=bear&count_private=true"/>
