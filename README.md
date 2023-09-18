@@ -11,7 +11,7 @@ Love learning new things and exploring new fields
 <br>
 <div align = "left">  
   <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=julia-hikari&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-hikari&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-hikari&show_icons=true&theme=bear&count_private=true"/>
 </div>
 <br>
 <div style="display: inline_block">
