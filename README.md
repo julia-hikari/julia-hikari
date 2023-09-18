@@ -1,5 +1,5 @@
 ### Hi 🔆
-<img src = "code.gif" width = "150px" align = "right">
+<img src = "code.gif" width = "130px" align = "right">
 I'm Julia Hikari :) <br>
 Currently a studant in SPTech school <br>
 From Japan , living in São Paulo <br>
