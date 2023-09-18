@@ -1,6 +1,9 @@
-### Hi, I'm Julia Hikari 
-Sou estudante de ADS na SPTech school
-<img src = "code.gif" width = "200px" align = "right">
+### Hi 🔆
+I'm Julia Hikari :) 
+Currently a studant in SPTech school 
+From Japan , living in São Paulo 
+Love learning new things and exploring new fields
+<img src = "code.gif" width = "100px" align = "right">
 <div align = "left">  
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=julia-hikari&show_icons=true&show_icons=true&theme=bear&count_private=true" />
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-hikari&show_icons=true&theme=bear&count_private=true"/>
