@@ -1,5 +1,5 @@
 ### Hi 🔆
-<img src = "code.gif" width = "120px" align = "right">
+<img src = "code.gif" width = "110px" align = "right">
 I'm Julia Hikari :) <br>
 Currently a studant in SPTech school <br>
 From Japan , living in São Paulo <br>
@@ -17,5 +17,6 @@ Love learning new things and exploring new fields
 <img align="center" alt="Davi-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>   
 </div>
 </div>
+<br>
 <a href="https://instagram.com/_hiksz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/julia-hikari-kunihositi-55860a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
