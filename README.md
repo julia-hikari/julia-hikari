@@ -1,5 +1,5 @@
 ### Hi 🔆
-<img src = "cat.gif" width = "170px" align = "right">
+<img src = "cat.gif" width = "150px" align = "right">
 <a href="https://instagram.com/_hiksz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/julia-hikari-kunihositi-55860a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
