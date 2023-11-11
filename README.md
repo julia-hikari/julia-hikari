@@ -9,9 +9,10 @@ From Japan , living in São Paulo <br>
 <br>
 Love learning new things and exploring new fields
 <br>
-<div align = "left">  
-  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=julia-hikari&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-hikari&show_icons=true&theme=bear&count_private=true"/>
+<div align="left">
+  <a href="https://github.com/julia-hikari">
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=julia-hikari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-hikari&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br>
 <div style="display: inline_block">
